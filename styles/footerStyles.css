@@ -78,6 +78,7 @@
 .footer-size{
   height: 70px;
   width: 150px;
+  box-sizing: border-box;
 }
 
 .footer-info-list{
